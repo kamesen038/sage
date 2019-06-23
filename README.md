@@ -7,4 +7,5 @@ shifted_macdonald.ipnb is a jupyter notebook to compute the shifted Macdonald po
 
 ## Reference
 
-https://arxiv.org/abs/q-alg/9608021　　https://arxiv.org/abs/1902.02275
+https://arxiv.org/abs/q-alg/9608021　　
+https://arxiv.org/abs/1902.02275
